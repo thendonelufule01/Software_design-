@@ -1,0 +1,1 @@
+In this lab, I created a GitHub account and set up a repository. The repository contains the following files: index.html, report.md, and student-info.txt. also added a header to the index.html file with the message "Hello, World!" along with my student number: 2678518
